@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Bonnet Grotesque Nr';
+    src: url('BonnetGrotesqueNr-Bold.eot');
+    src: local('Bonnet Grotesque Nr Bold'), local('BonnetGrotesqueNr-Bold'),
+        url('BonnetGrotesqueNr-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BonnetGrotesqueNr-Bold.woff2') format('woff2'),
+        url('BonnetGrotesqueNr-Bold.woff') format('woff'),
+        url('BonnetGrotesqueNr-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bonnet Grotesque Nr';
+    src: url('BonnetGrotesqueNr-Light.eot');
+    src: local('Bonnet Grotesque Nr Light'), local('BonnetGrotesqueNr-Light'),
+        url('BonnetGrotesqueNr-Light.eot?#iefix') format('embedded-opentype'),
+        url('BonnetGrotesqueNr-Light.woff2') format('woff2'),
+        url('BonnetGrotesqueNr-Light.woff') format('woff'),
+        url('BonnetGrotesqueNr-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bonnet Grotesque Nr';
+    src: url('BonnetGrotesqueNr-Regular.eot');
+    src: local('Bonnet Grotesque Nr'), local('BonnetGrotesqueNr-Regular'),
+        url('BonnetGrotesqueNr-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BonnetGrotesqueNr-Regular.woff2') format('woff2'),
+        url('BonnetGrotesqueNr-Regular.woff') format('woff'),
+        url('BonnetGrotesqueNr-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bonnet Grotesque Nr';
+    src: url('BonnetGrotesqueNr-Medium.eot');
+    src: local('Bonnet Grotesque Nr Medium'), local('BonnetGrotesqueNr-Medium'),
+        url('BonnetGrotesqueNr-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BonnetGrotesqueNr-Medium.woff2') format('woff2'),
+        url('BonnetGrotesqueNr-Medium.woff') format('woff'),
+        url('BonnetGrotesqueNr-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bonnet Grotesque Nr DEMO';
+    src: url('BonnetGrotesqueNrDEMO-Regular.eot');
+    src: local('Bonnet Grotesque Nr DEMO'), local('BonnetGrotesqueNrDEMO-Regular'),
+        url('BonnetGrotesqueNrDEMO-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BonnetGrotesqueNrDEMO-Regular.woff2') format('woff2'),
+        url('BonnetGrotesqueNrDEMO-Regular.woff') format('woff'),
+        url('BonnetGrotesqueNrDEMO-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bonnet Grotesque Nr';
+    src: url('BonnetGrotesqueNr-Thin.eot');
+    src: local('Bonnet Grotesque Nr Thin'), local('BonnetGrotesqueNr-Thin'),
+        url('BonnetGrotesqueNr-Thin.eot?#iefix') format('embedded-opentype'),
+        url('BonnetGrotesqueNr-Thin.woff2') format('woff2'),
+        url('BonnetGrotesqueNr-Thin.woff') format('woff'),
+        url('BonnetGrotesqueNr-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+

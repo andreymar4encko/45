@@ -1,0 +1,159 @@
+
+body {
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+ul,
+li {
+    margin: 0;
+padding: 0;
+list-style: none;
+font-family: "Inter", sans-serif;
+font-weight: 400;
+}
+a {
+    color: inherit;
+text-decoration: none;
+}
+
+.contianer {
+width: 1512px;
+margin: 0 auto;
+}
+
+.header {
+width: 100%;
+height: 100vh;
+background-image: url(../img/heroBg.png);
+}
+
+.logo {
+margin-right: 300px;
+}
+
+.header__hero {
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 30px 0;
+}
+
+.nav {
+flex-grow: 2;
+Font-weight: 400;
+Font-size: 18px;
+}
+
+.nav__list {
+display: flex;
+align-items: center;
+color: #fff;
+}
+
+.nav__link {
+padding: 0 16px;
+}
+.nav__link:hover{
+border-bottom: px solid #FADF55;
+}
+.header__logo {
+margin-left: auto;
+}
+
+.languard__btn {
+border-radius: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 60px;
+padding: 5px 5px;
+height: 43px;
+background: rgba(108, 108, 108, 0.49);
+}
+.languard__btn-with{
+    /* height: 100px; */
+}
+
+.shepe {
+margin-left: 6px;
+}
+
+.hero__title {
+font-size: 64px;
+font-weight: 400;
+line-height: 77px;
+color: rgb(246, 217, 68);
+}
+
+.hero__text {
+text-transform: uppercase;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+font-family: 'Bonnet Grotesque Nr';
+
+}
+
+.hero__text-span1 {
+color: #fff;
+font-size: 150px;
+font-weight: 400;
+line-height: 180px;
+letter-spacing: 0%;
+}
+.hero__text-span2{
+position: relative;
+font-size: 144px;
+font-weight: 400;
+line-height: 173px;
+letter-spacing: 0%;
+font-weight: 500;
+text-shadow: 2px -1px 1px #fff;
+}
+.hero__text-span2::before{
+position: absolute;
+top: 0;
+left: 0;
+content: " football and education!";
+width: 100%;
+height: 100%;
+text-shadow: -1px 1px 1px #fff;
+}
+
+.b1{
+    display: none
+}
+.blok{
+display:block;
+height: 100%;
+padding: 10px 0;
+margin-top: 10px 0;
+}
+.languard__btn-with span{
+    color:#fff
+}
+.about{
+    padding: 30px 0;
+}
+.about__title{
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 84px;
+   
+}
+.about__text{
+    color: rgb(3, 23, 32);
+font-family: Inter;
+font-size: 25px;
+font-weight: 400;
+line-height: 144%;}
+
+
+.about__card-item{
+    display: flex;
+    align-items: center;
+    /* justify-content: flex-end; */
+}
